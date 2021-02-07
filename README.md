@@ -1,13 +1,16 @@
 # go design pattern 
 
 
-## Reference 
--[Go design patterns-2017](https://www.packtpub.com/application-development/go-design-patterns)
-  - [github](https://github.com/PacktPublishing/Go-Design-Patterns)
+## 3 main features
+- Encapsulation
+- inheritance
+- Polymorphism
 
--[Go: Design Patterns for Real-World Projects]()
-  - [github](https://github.com/PacktPublishing/Go-Design-Patterns-for-Real-World-Projects)
+## 5 rules
+- 单一功能
+- 开闭原则
+- 里氏替换
+- 接口隔离
+- 依赖反转
 
--[www.godesignpatterns.com/](https://www.godesignpatterns.com/)
 
--[23个设计模式 | go语言 | golang](https://www.bilibili.com/video/BV1GD4y1D7D3?from=search&seid=16597766896473431308)
